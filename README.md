@@ -12,6 +12,9 @@ It generates a CSV file containing the computed hazard curves and saves a semi-l
 ## Prerequisites
 
 - Python 3.x
+- h5py>=3.16.0
+- matplotlib>=3.10.9
+- pandas>=2.3.3
 
 ## Installation
 
